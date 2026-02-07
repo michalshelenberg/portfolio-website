@@ -3,7 +3,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next'
 import { GeistMono } from 'geist/font/mono'
 import { GeistSans } from 'geist/font/sans'
 // import type { Metadata } from 'next'
-import Footer from './components/footer'
+import Footer from 'src/components/footer'
 import './global.css'
 // import { baseUrl } from './sitemap'
 
