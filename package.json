@@ -1,5 +1,5 @@
 {
-  "name": "personal-website",
+  "name": "portfolio-website",
   "private": true,
   "scripts": {
     "dev": "next dev",
